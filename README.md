@@ -8,7 +8,7 @@
   <a href="https://tejaswinijakka.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
 </p>
 
-## Hi, I'm Tejaswini 👋
+<h2 align="center">Building observable, failure-aware systems that stay fast under load.</h2>
 
 I'm a software developer engineer specializing in reliable APIs, distributed systems, platform engineering, and observability tooling. I enjoy turning difficult production problems into measurable improvements - faster queries, safer deployments, clearer telemetry, and systems that recover gracefully when infrastructure fails.
 
@@ -19,12 +19,9 @@ I'm a software developer engineer specializing in reliable APIs, distributed sys
 
 ## Engineering impact
 
-| Challenge | Result |
-|---|---|
-| High-latency PostgreSQL API queries | Reduced latency by **99%**, from **40 seconds to 20 milliseconds** |
-| Slow CI build-metadata retrieval | Cut retrieval time from **20 minutes to under 5 seconds** |
-| Platform release consistency | Modernized Kubernetes and Docker delivery across **40+ microservice repositories** |
-| High-volume application workflows | Built auditable backend workflows supporting **500+ faculty applications** |
+<p align="center">
+  <img src="./assets/impact-dashboard.svg" alt="Engineering impact: 99 percent lower API latency, 20 millisecond query response, 40 plus microservice repositories modernized, and 10 thousand plus concurrent tasks supported" width="100%" />
+</p>
 
 ## Technical toolbox
 
